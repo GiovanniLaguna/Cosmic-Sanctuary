@@ -6,18 +6,17 @@ TagManager:
   tags:
   - NPC
   - Recolectable
-  - ZonaEntrega
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Terrain
+  - 
   - Water
   - UI
   - PlaceableSurface
   - NotPlaceableSurface
-  - 
-  - 
+  - Interactable
+  - Meteors
   - 
   - 
   - 
